@@ -2,7 +2,7 @@ ul.nav li{
     display: inline-block;
     padding-right: 10px;
 }
-a{background-color: purple; color: white}
+a{background-color: purple; color: blue}
 
 .color-info {border: 3px;
     border-color: black; 
